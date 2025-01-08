@@ -20,10 +20,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <h3 align="left">Front End Developer from Sreemangal, Bangladesh</h3>
 
 ###
