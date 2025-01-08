@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/McnxZZq/github-cover.jpg"  />
+  <img height="300" src="https://i.ibb.co.com/McnxZZq/github-cover.jpg"  />
 </div>
 
 ###
@@ -12,15 +12,16 @@
 
 ###
 
-<h1 align="center">Welcome!</h1>
+<h1 align="left">Welcome!</h1>
 
 ###
 
-<h5 align="left">I'm Md. Ashraf Hossain. My nickname is Manna</h5>
+<h5 align="left">I'm Md. Ashraf Hossain. My nickname is Manna.</h5>
 
 ###
 
-<h3 align="left">Front End Developer from Sreemangal, Bangladesh</h3>
+
+<h3 align="left">I am a Front End Developer from Sreemangal, Bangladesh</h3>
 
 ###
 
@@ -63,7 +64,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bornilshopno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bornilshopno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=bornilshopno&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
