@@ -11,7 +11,9 @@
 </div>
 
 ###
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=%2C+Welcome+%F0%9F%91%8B;Front End Web Developer;+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
 <h1 align="left">Welcome!</h1>
 
 ###
