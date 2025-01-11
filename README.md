@@ -12,7 +12,7 @@
 
 ###
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Welcome+%F0%9F%91%8B+To My Github;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Welcome+To My Github;" alt="Typing SVG" />
 </h1>
 
 ###
