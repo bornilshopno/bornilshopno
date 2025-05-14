@@ -15,26 +15,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Welcome+To My Github;" alt="Typing SVG" />
 </h1>
 
-###
-
-<h5 align="left"> My nickname is Manna.</h5>
 
 ###
 
-
-<h3 align="left">I am a Front End Developer from Sreemangal, Bangladesh</h3>
-
-###
-
-<h4 align="left">I started coding from the interest to see something on internet /website which is designed by myself. Exploring these little by little i got myself attached and continued learning. At present I am learning back end sides like managing database with MongoDB .</h4>
+<h3 align="left">Front End Developer from Sreemangal, Bangladesh</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as a Front End Developer.<br>- 📚 I'm currently learning Node.js<br>- ⚡ In my free time I like to watch football,  spending time with kids.</p>
+<h4 align="left">I started coding from the interest to see something on internet /website which is designed by myself. Exploring these little by little i got myself attached and continued learning. At present I am learning TypeScript and exploring back end technologies.</h4>
 
 ###
 
-<h3 align="left">🛠 I Code With...</h3>
+<p align="left">-  I’m working as a Front End Developer.<br>-  I'm currently learning TypeScript<br>-  In my free time I like to watch football,  spending time with kids.</p>
+
+###
+
+<h3 align="left"> I Code With...</h3>
 
 ###
 
