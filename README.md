@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">I started coding from the interest to see something on internet /website which is designed by myself. Exploring these little by little i got myself attached and continued learning. At present I am learning TypeScript and exploring back end technologies.</h4>
+<h4 align="left">I started coding from the interest to see something on internet /website which is designed by myself. Exploring these little by little i got myself attached and continued learning. At present I am learning TypeScript and exploring back end technologies in detail.</h4>
 
 ###
 
