@@ -32,11 +32,11 @@
   <p>
 ## Skills
 
-- **Languages**: JavaScript, TypeScript
-- **Frontend**: React.js, Next.js, Redux
+- **Languages**: JavaScript
+- **Frontend**: React.js
 - **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, Mongoose, MySQL, PostgreSQL, Firebase
-- **Others**: GraphQL, Prisma, Docker, AWS
+- **Databases**: MongoDB, Mongoose
+- **Others**: GitHub
 </div>
 </p>
 ###
